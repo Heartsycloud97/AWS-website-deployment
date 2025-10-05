@@ -1,14 +1,11 @@
  🚀 AWS Infrastructure in 3 Hours
 
-
-
 One command. Two servers. Production-ready infrastructure
 
 [Full story on Medium]
 
 
-
- 💥 What This Does
+💥 What This Does
 
 Deploys a load-balanced website across 2 AWS servers with one Ansible command.
 
