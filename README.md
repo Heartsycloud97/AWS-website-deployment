@@ -2,7 +2,7 @@
 
 One command. Two servers. Production-ready infrastructure
 
-[Full story on Medium]
+https://medium.com/@chinafav12/from-zero-to-cloud-hero-how-i-deployed-a-high-availability-website-on-aws-33eb8359adbd
 
 
 💥 What This Does
@@ -79,7 +79,7 @@ EC2 vs S3? Load balancing? High availability? You'll get it by doing it.
 
 Full Tutorial
 
-[Read the complete guide on Medium] with screenshots, mistakes, and lessons learned.
+[Read the complete guide on Medium https://medium.com/@chinafav12/from-zero-to-cloud-hero-how-i-deployed-a-high-availability-website-on-aws-33eb8359adbd] with screenshots, mistakes, and lessons learned.
 
 
 🚨 Troubleshooting
@@ -89,12 +89,11 @@ Ansible fails? → chmod 400 your-key.pem
 Unhealthy targets? → Check NGINX is running
 
 
- 💬 Connect
-
+ 💬 Connect 
+ https://medium.com/@chinafav12/from-zero-to-cloud-hero-how-i-deployed-a-high-availability-website-on-aws-33eb8359adbd
+ 
 ⭐ Star if this helped you!  
 Questions? Open an issue or find me on Medium
-
-
 
 From zero AWS knowledge to deployed infrastructure in one weekend.
 
